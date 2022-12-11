@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andriorony
 - 👀 I’m interested in codding and music
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning HTML, Css and JavaScript
 - 📫 How to reach me instagram @andriorony
 
 <!---
